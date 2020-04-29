@@ -25,8 +25,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+今天日期是4/29號
+有關更多詳細信息，請參見[GitHub Flavored Markdown] （https://guides.github.com/features/mastering-markdown/）。
 
 ### Jekyll Themes
 
